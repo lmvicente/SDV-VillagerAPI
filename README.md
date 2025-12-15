@@ -11,4 +11,4 @@ This includes the villager's:
 * Their loved, liked, neutral, disliked, hated gifts
 * Their schedules 
 
-The Swagger documentation can be accessed here: https://svdvillagerapi.onrender.com/docs 
+The Swagger documentation can be accessed here: https://sdv-villagerapi.onrender.com/docs 
