@@ -1,5 +1,5 @@
 
-# SVDVillerApi  
+# SDV-VillagerAPI  
 
 This is a free API that grabs data from the Stardew Valley wiki's about villagers.
 
